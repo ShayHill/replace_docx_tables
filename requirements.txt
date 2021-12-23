@@ -1,0 +1,3 @@
+docx2python
+lxml
+pytest
